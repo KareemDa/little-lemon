@@ -1,21 +1,37 @@
-# Calculator App
+# Little Lemon Restaurant Web App
 
-This is a simple calculator app built with React. It can perform the four basic mathematical operations: addition, subtraction, multiplication, and division.
+This is a web app built with React and Tailwind CSS for the Little Lemon restaurant. It includes a booking form, a menu section, a specials section, a reviews section, and a contact section with validation.
 
-## Getting Started
+## Installation
 
-To run this app on your local machine, follow these steps:
-
-1- Clone this repository to your machine.
-
-2- Install dependencies with npm install.
-
-3- Start the app with npm start.
+Clone the repository: git clone https://github.com/KareemDa/little-lemon.git Install dependencies: `npm install`
 
 ## Usage
 
-Once the app is running, use the buttons to input numbers and mathematical operators. The calculator will display the current input and the result of any calculations.
+Start the development server: `npm start` Open the web app in your browser at `http://localhost:3000`
 
-## Credits
+## Features
 
-This app was built by Kareem Dabbeet
+### Menu Section
+
+The menu section displays the Little Lemon restaurant's menu items in a clear and organized way.
+
+### Specials Section
+
+The specials section displays the Little Lemon restaurant's featured specials for the day or week.
+
+### Reviews Section
+
+The reviews section displays customer reviews and ratings for the Little Lemon restaurant. It includes star ratings for each review.
+
+### Contact Section
+
+The contact section allows users to send a message to the Little Lemon restaurant with their name, email, and message. It includes validation to ensure that all required fields are filled out and that the email address is valid.
+
+## Technologies Used
+
+- React
+
+- Tailwind CSS
+
+- Jest and React Testing Library for unit testing
