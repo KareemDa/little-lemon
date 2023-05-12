@@ -4,11 +4,19 @@ This is a web app built with React and Tailwind CSS for the Little Lemon restaur
 
 ## Installation
 
-Clone the repository: git clone https://github.com/KareemDa/little-lemon.git Install dependencies: `npm install`
+Clone the repository:
+
+```
+ git clone https://github.com/KareemDa/little-lemon.git
+```
+
+Install dependencies: `npm install`
 
 ## Usage
 
-Start the development server: `npm start` Open the web app in your browser at `http://localhost:3000`
+Start the development server: `npm start`
+
+Open the web app in your browser at `http://localhost:3000`
 
 ## Features
 
